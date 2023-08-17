@@ -13,7 +13,7 @@ O sistema conta com as seguintes abas em seu lançamento incial:
 
 - Ramais
 	
-	> Uma lsitagem inicial dos ramais do CAFF, Localidades de POA e das CRS
+	> Uma listagem inicial dos ramais do CAFF, localidades de POA e das CRS
 
 - Fluxo de Chamados
 
